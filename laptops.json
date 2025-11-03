@@ -1,0 +1,14 @@
+[
+    {
+        "name": "HP",
+        "price": 10000,
+        "ram": "6GB",
+        "storage": "128GB"
+    },
+    {
+        "name": "Apple",
+        "price": 75000,
+        "ram": "2GB",
+        "storage": "64GB"
+    }
+]
