@@ -228,6 +228,7 @@
     {
         "id": 3,
         "name": "Samsung A15",
+        "image": "/images/phones/samsung/samsung-A15.webp",
         "network": {
           "technology": "GSM / HSPA / LTE / 5G"
         },
@@ -370,6 +371,7 @@
     {
         "id": 4,
         "name": "Samsung A06",
+        "image": "/images/phones/samsung/samsung-A06.webp",
         "network": {
           "technology": "GSM / HSPA / LTE"
         },
@@ -486,6 +488,7 @@
     {
         "id": 5,
         "name": "Iphone 6",
+        "image": "/images/phones/iphone/ip6-medium.webp",
         "Network": {
           "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
         },
@@ -585,6 +588,7 @@
     {
         "id": 6,
         "name": "Iphone 6s",
+        "image": "/images/phones/iphone/iphone-6s.webp",
         "Network": {
           "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
         },
