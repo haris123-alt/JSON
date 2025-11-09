@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Samsung A15",
         "price": 52000,
         "ram": "6GB",
@@ -7,6 +8,7 @@
         "image": "/images/phones/samsung/samsung-A15.webp"
     },
     {
+        "id": 2,
         "name": "Iphone 13",
         "price": 45000,
         "ram": "2GB",
