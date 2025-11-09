@@ -1,35 +1,684 @@
 [
     {
         "id": 1,
-        "name": "Samsung A15",
-        "price": 52000,
-        "ram": "6GB",
-        "storage": "128GB",
-        "image": "/images/phones/samsung/samsung-A15.webp",
-        "technology": "GSM/PA/LTE",
-        "Launched": "2023, December 11",
-        "Dimensions": "160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in)",
-        "Weight": "200 g (7.05 oz)",
-        "Build": "Glass front, plastic back, plastic frame",
-        "SIM": "Nano-SIM + Nano-SIM",
-        "Type": "Super AMOLED, 90Hz, 800 nits (HBM)",
-        "Size": "6.5 inches, 103.7 cm2 (~84.3% screen-to-body ratio)",
-        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)",
-        "OS": "Android 14, up to 4 major, Android upgrades One UI 7 Chipset Mediatek Helio G99 (6 nm)",		
-        "CPU":	"Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",		
-        "GPU":	"Mali-G57 MC2",
-        "Card slot": "microSDXC (uses shared SIM slot)",		
-        "Internal":	"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
-        "Modules":	"50 MP, f/1.8, 26mm (wide), 1/2.8, 0.64µm, PDAF 5 MP, f/2.2, 17mm (ultrawide), 1/5.0, 1.12µm 2 MP (macro)",		
-        "Features":	"LED flash, panorama, HDR",		
-        "Video": "1080p@30fps",
-        "brand": "samsung"	
+        "name": "Samsung A26",
+        "network": {
+            "technology": "GSM / HSPA / LTE"
+        },
+        "launch": {
+            "announced": "2023, December 11",
+            "status": "Available. Released 2023, December 16"
+        },
+        "body": {
+            "dimensions": "160.1 x 76.8 x 8.4 mm (6.30 x 3.02 x 0.33 in)",
+            "weight": "200 g (7.05 oz)",
+            "build": "Glass front, plastic back, plastic frame",
+            "SIM": [
+            "Nano-SIM",
+            "Nano-SIM + Nano-SIM"
+            ]
+        },
+        "display": {
+            "type": "Super AMOLED, 90Hz, 800 nits (HBM)",
+            "size": "6.5 inches, 103.7 cm² (~84.3% screen-to-body ratio)",
+            "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~396 ppi density)"
+        },
+        "platform": {
+            "OS": "Android 14, up to 4 major Android upgrades, One UI 7",
+            "chipset": "Mediatek Helio G99 (6 nm)",
+            "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G57 MC2"
+        },
+        "memory": {
+            "card_slot": "microSDXC (uses shared SIM slot)",
+            "internal": [
+            "128GB 4GB RAM",
+            "128GB 6GB RAM",
+            "128GB 8GB RAM",
+            "256GB 6GB RAM",
+            "256GB 8GB RAM"
+            ]
+        },
+        "main_camera": {
+            "modules": [
+            "50 MP, f/1.8, 26mm (wide), 1/2.8\", 0.64µm, PDAF",
+            "5 MP, f/2.2, 17mm (ultrawide), 1/5.0\", 1.12µm",
+            "2 MP (macro)"
+            ],
+            "features": "LED flash, panorama, HDR",
+            "video": "1080p@30fps"
+        },
+        "selfie_camera": {
+            "modules": [
+            "13 MP, f/2.0, 26mm (wide), 1/3.06\", 1.12µm"
+            ],
+            "video": "1080p@30fps"
+        },
+        "sound": {
+            "loudspeaker": "Yes",
+            "3_5mm_jack": "Yes"
+        },
+          "comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Infrared_port": "No",
+            "Radio": "FM radio (market/region dependent)",
+            "USB": "USB Type-C 2.0"
+        },
+          "features": {
+            "sensors": [
+              "Fingerprint (side-mounted)",
+              "accelerometer",
+              "compass",
+              "virtual proximity sensing"
+            ]
+        },
+          "battery": {
+            "type": "5000 mAh",
+            "charging": "25W wired"
+        },
+          "misc": {
+            "colors": [
+              "Brave Black",
+              "Optimistic Blue",
+              "Magical Blue",
+              "Personality Yellow"
+            ],
+            "SAR_EU": {
+              "head": "0.42 W/kg",
+              "body": "1.29 W/kg"
+            },
+            "models": [
+              "SM-A155F",
+              "SM-A155F/DSN",
+              "SM-A155M",
+              "SM-A155M/DS",
+              "SM-A155P",
+              "SM-A155R"
+            ],
+            "price": {
+              "USD": "$144.99",
+              "EUR": "€172.58",
+              "GBP": "£91.73"
+            }
+        },
+          "our_tests": {
+            "performance": {
+              "AnTuTu": {
+                "v9": 316967,
+                "v10": 375314
+              },
+              "GeekBench": {
+                "v5": 1928,
+                "v6": 1936
+              },
+              "3DMark": {
+                "Wild_Life_Extreme": 338
+              }
+            },
+            "display": "808 nits max brightness (measured)",
+            "loudspeaker": "-25.5 LUFS (Very good)",
+            "battery": "Active use score 15:28h"
+        },
+        "brand": "samsung"
     },
     {
         "id": 2,
-        "name": "Iphone 13",
-        "price": 45000,
-        "ram": "2GB",
-        "storage": "64GB"
+        "name": "Iphone 6s Plus",
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Launch": {
+          "Announced": "2015, September 09. Released 2015, September 25",
+          "Status": "Discontinued"
+        },
+        "Body": {
+          "Dimensions": "158.2 x 77.9 x 7.3 mm (6.23 x 3.07 x 0.29 in)",
+          "Weight": "192 g (6.77 oz)",
+          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+          "SIM": "Nano-SIM",
+          "ApplePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
+        },
+        "Display": {
+          "Type": "IPS LCD",
+          "Size": "5.5 inches, 83.4 cm² (~67.7% screen-to-body ratio)",
+          "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+          "Protection": "Ion-strengthened glass, oleophobic coating",
+          "Extra": "3D Touch display"
+        },
+        "Platform": {
+          "OS": "iOS 9, upgradable to iOS 15.8.5",
+          "Chipset": "Apple A9 (14/16 nm - maker dependant)",
+          "CPU": "Dual-core 1.84 GHz Twister",
+          "GPU": "PowerVR GT7600 (six-core graphics)"
+        },
+        "Memory": {
+          "CardSlot": "No",
+          "Internal": [
+            "16GB 2GB RAM",
+            "32GB 2GB RAM",
+            "64GB 2GB RAM",
+            "128GB 2GB RAM"
+          ],
+          "Type": "NVMe"
+        },
+        "MainCamera": {
+          "Modules": "12 MP, f/2.2, 29mm (standard), 1/3.0\", 1.22µm, PDAF, OIS",
+          "Features": "Dual-LED dual-tone flash, HDR",
+          "Video": "4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps"
+        },
+        "SelfieCamera": {
+          "Modules": "5 MP, f/2.2, 31mm (standard)",
+          "Features": "Face detection, HDR, panorama",
+          "Video": "720p@30fps"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes",
+          "Jack3_5mm": "Yes",
+          "Audio": "16-bit/44.1kHz audio"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+          "Bluetooth": "4.2, A2DP, LE",
+          "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+          "NFC": "Yes (Apple Pay only)",
+          "Infrared": "No",
+          "Radio": "No",
+          "USB": "Lightning, USB 2.0"
+        },
+        "Features": {
+          "Sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+          ]
+        },
+        "Battery": {
+          "Type": "Li-Ion 2750 mAh, non-removable (10.45 Wh)",
+          "StandBy": "Up to 384 h (3G)",
+          "TalkTime": "Up to 24 h (3G)"
+        },
+        "Misc": {
+          "Colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+          "SAR": {
+            "Head": "1.12 W/kg",
+            "Body": "1.14 W/kg"
+          },
+          "SAR_EU": {
+            "Head": "0.93 W/kg",
+            "Body": "0.98 W/kg"
+          },
+          "Models": ["A1634", "A1687", "A1690", "A1699", "iPhone8,2"],
+          "Price": "About 240 EUR"
+        },
+        "Tests": {
+          "Performance": "Basemark OS II 2.0: 2261",
+          "Display": "Contrast ratio: 1382:1 (nominal), 3.530 (sunlight)",
+          "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 64dB",
+          "AudioQuality": "Noise -93.4dB / Crosstalk -71.1dB",
+          "Battery": "Endurance rating 85h"
+        }
+    }, 
+    {
+        "id": 3,
+        "name": "Samsung A15",
+        "network": {
+          "technology": "GSM / HSPA / LTE / 5G"
+        },
+        "launch": {
+          "announced": "2025, March 02",
+          "status": "Available. Released 2025, March 19"
+        },
+        "body": {
+          "dimensions": "164 x 77.5 x 7.7 mm (6.46 x 3.05 x 0.30 in)",
+          "weight": "200 g (7.05 oz)",
+          "build": "Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)",
+          "SIM": "Nano-SIM + Nano-SIM",
+          "ip_rating": "IP67 dust/water resistant (up to 1m for 30 min)"
+        },
+        "display": {
+          "type": "Super AMOLED, 120Hz",
+          "size": "6.7 inches, 110.2 cm² (~86.7% screen-to-body ratio)",
+          "resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+          "protection": "Corning Gorilla Glass Victus+, Mohs level 5"
+        },
+        "platform": {
+          "OS": "Android 15, up to 6 major Android upgrades, One UI 7",
+          "chipset": {
+            "global": "Exynos 1380 (5 nm)",
+            "latam": "Exynos 1280 (5 nm)"
+          },
+          "CPU": {
+            "global": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+            "latam": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"
+          },
+          "GPU": {
+            "global": "Mali-G68 MP5",
+            "latam": "Mali-G68"
+          }
+        },
+        "memory": {
+          "card_slot": "microSDXC (uses shared SIM slot)",
+          "internal": [
+            "128GB 4GB RAM",
+            "128GB 6GB RAM",
+            "128GB 8GB RAM",
+            "256GB 6GB RAM",
+            "256GB 8GB RAM"
+          ]
+        },
+        "main_camera": {
+          "modules": [
+            "50 MP, f/1.8, 27mm (wide), 1/2.76\", 0.64µm, PDAF, OIS",
+            "8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+            "2 MP (macro)"
+          ],
+          "features": "LED flash, panorama, HDR",
+          "video": "4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
+        },
+        "selfie_camera": {
+          "modules": [
+            "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm"
+          ],
+          "video": "1080p@30fps"
+        },
+        "sound": {
+          "loudspeaker": "Yes",
+          "3_5mm_jack": "No"
+        },
+        "comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+          "NFC": "Yes (market/region dependent)",
+          "Infrared_port": "No",
+          "Radio": "Unspecified",
+          "USB": "USB Type-C 2.0, OTG"
+        },
+        "features": {
+          "sensors": [
+            "Fingerprint (side-mounted)",
+            "accelerometer",
+            "gyro",
+            "compass",
+            "virtual proximity sensing"
+          ]
+        },
+        "battery": {
+          "type": "5000 mAh",
+          "charging": "25W wired"
+        },
+        "misc": {
+          "colors": [
+            "Black",
+            "White",
+            "Mint",
+            "Peach Pink"
+          ],
+          "SAR": {
+            "head": "0.75 W/kg",
+            "body": "1.09 W/kg"
+          },
+          "SAR_EU": {
+            "head": "0.41 W/kg",
+            "body": "0.96 W/kg"
+          },
+          "models": [
+            "SM-A266E",
+            "SM-A266E/DS",
+            "SM-A266E/DSN",
+            "SM-A266B",
+            "SM-A266B/DS",
+            "SM-A266B/DSN",
+            "SM-A266U",
+            "SM-A266U1",
+            "SM-A266W"
+          ],
+          "price": {
+            "USD": "$177.08",
+            "EUR": "€196.99",
+            "GBP": "£194.90",
+            "INR": "₹23,999"
+          }
+        },
+        "our_tests": {
+          "performance": {
+            "AnTuTu_v10": 579811,
+            "GeekBench_v6": 2768,
+            "3DMark_Wild_Life_Extreme": 794
+          },
+          "display": "777 nits max brightness (measured)",
+          "loudspeaker": "-27.1 LUFS (Good)",
+          "battery": {
+            "active_use_score": "10:44h"
+          }
+        },
+        "eu_label": {
+          "energy": "Class C",
+          "battery": "37:05h endurance, 1200 cycles",
+          "free_fall": "Class B (269 falls)",
+          "repairability": "Class C"
+        },
+        "brand":"samsung"
+    },
+    {
+        "id": 4,
+        "name": "Samsung A06",
+        "network": {
+          "technology": "GSM / HSPA / LTE"
+        },
+        "launch": {
+          "announced": "2024, August 16",
+          "status": "Available. Released 2024, August 22"
+        },
+        "body": {
+          "dimensions": "167.3 x 77.3 x 8 mm (6.59 x 3.04 x 0.31 in)",
+          "weight": "189 g (6.67 oz)",
+          "build": "Glass front, plastic back, plastic frame",
+          "SIM": [
+            "Nano-SIM",
+            "Nano-SIM + Nano-SIM"
+          ]
+        },
+        "display": {
+          "type": "PLS LCD",
+          "size": "6.7 inches, 108.4 cm² (~83.8% screen-to-body ratio)",
+          "resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+        },
+        "platform": {
+          "OS": "Android 14, up to 2 major Android upgrades, One UI 8",
+          "chipset": "Mediatek Helio G85 (12 nm)",
+          "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+          "GPU": "Mali-G52 MC2"
+        },
+        "memory": {
+          "card_slot": "microSDXC (dedicated slot)",
+          "internal": [
+            "64GB 4GB RAM",
+            "128GB 4GB RAM",
+            "128GB 6GB RAM"
+          ],
+          "type": "eMMC 5.1"
+        },
+        "main_camera": {
+          "modules": [
+            "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF",
+            "Auxiliary lens"
+          ],
+          "features": "LED flash",
+          "video": "1080p@30/60fps"
+        },
+        "selfie_camera": {
+          "modules": [
+            "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm"
+          ],
+          "video": "Yes"
+        },
+        "sound": {
+          "loudspeaker": "Yes",
+          "3_5mm_jack": "Yes"
+        },
+        "comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS, GLONASS, GALILEO, BDS",
+          "NFC": "No",
+          "Infrared_port": "No",
+          "Radio": "FM radio",
+          "USB": "USB Type-C 2.0"
+        },
+        "features": {
+          "sensors": [
+            "Fingerprint (side-mounted)",
+            "accelerometer",
+            "proximity"
+          ]
+        },
+        "battery": {
+          "type": "Li-Po 5000 mAh",
+          "charging": "25W wired"
+        },
+        "misc": {
+          "colors": ["Blue", "Gold", "White"],
+          "SAR_EU": {
+            "head": "0.44 W/kg",
+            "body": "1.08 W/kg"
+          },
+          "models": [
+            "SM-A065F",
+            "SM-A065F/DS",
+            "SM-A065M",
+            "SM-A065M/DS"
+          ],
+          "price": {
+            "USD": "$102.87",
+            "EUR": "€88.02",
+            "GBP": "£66.79",
+            "INR": "₹7,599"
+          }
+        },
+        "our_tests": {
+          "performance": {
+            "AnTuTu": {
+              "v9": 182064,
+              "v10": 247675
+            },
+            "GeekBench": {
+              "v5": 1273,
+              "v6": 1276
+            },
+            "3DMark": {
+              "Wild_Life_Extreme": 188
+            }
+          },
+          "display": "1484:1 contrast ratio, 564 nits max brightness (measured)",
+          "loudspeaker": "-27.7 LUFS (Good)",
+          "battery": "Active use score 13:50h"
+        },
+        "brand":"samsung"
+    },
+    {
+        "id": 5,
+        "name": "Iphone 6",
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Launch": {
+          "Announced": "2014, September 09. Released 2014, September 19",
+          "Status": "Discontinued"
+        },
+        "Body": {
+          "Dimensions": "138.1 x 67 x 6.9 mm (5.44 x 2.64 x 0.27 in)",
+          "Weight": "129 g (4.55 oz)",
+          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+          "SIM": "Nano-SIM",
+          "ApplePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
+        },
+        "Display": {
+          "Type": "IPS LCD",
+          "Size": "4.7 inches, 60.9 cm2 (~65.8% screen-to-body ratio)",
+          "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+          "Protection": "Ion-strengthened glass, oleophobic coating"
+        },
+        "Platform": {
+          "OS": "iOS 8, upgradable to iOS 12.5.7",
+          "Chipset": "Apple A8 (20 nm)",
+          "CPU": "Dual-core 1.4 GHz Typhoon (ARM v8-based)",
+          "GPU": "PowerVR GX6450 (quad-core graphics)"
+        },
+        "Memory": {
+          "CardSlot": "No",
+          "Internal": [
+            "16GB 1GB RAM",
+            "32GB 1GB RAM",
+            "64GB 1GB RAM",
+            "128GB 1GB RAM"
+          ]
+        },
+        "MainCamera": {
+          "Modules": "8 MP, f/2.2, 29mm, 1/3.0\", 1.5µm, PDAF",
+          "Features": "Dual-LED dual-tone flash, HDR",
+          "Video": "1080p@60fps, 720p@240fps"
+        },
+        "SelfieCamera": {
+          "Modules": "1.2 MP, f/2.2, 31mm (standard)",
+          "Features": "face detection, HDR, FaceTime over Wi-Fi or Cellular",
+          "Video": "720p@30fps"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes",
+          "Jack3_5mm": "Yes",
+          "Audio": "16-bit/44.1kHz audio"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+          "Bluetooth": "4.0, A2DP, LE",
+          "Positioning": "GPS, GLONASS",
+          "NFC": "Yes (Apple Pay only)",
+          "Infrared": "No",
+          "Radio": "No",
+          "USB": "Lightning, USB 2.0"
+        },
+        "Features": {
+          "Sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+          ]
+        },
+        "Battery": {
+          "Type": "Li-Po 1810 mAh, non-removable (6.9 Wh)",
+          "StandBy": "Up to 250 h (3G)",
+          "TalkTime": "Up to 14 h (3G)"
+        },
+        "Misc": {
+          "Colors": ["Space Gray", "Silver", "Gold"],
+          "SAR": {
+            "Head": "1.18 W/kg",
+            "Body": "1.18 W/kg"
+          },
+          "SAR_EU": {
+            "Head": "0.98 W/kg",
+            "Body": "0.97 W/kg"
+          },
+          "Models": ["A1549", "A1586", "A1589", "A1522", "A1524", "A1593", "iPhone7,2"],
+          "Price": "About 100 EUR"
+        },
+        "Tests": {
+          "Performance": "Basemark X: 15841",
+          "Display": "Contrast ratio: 1213 (nominal), 3.838 (sunlight)",
+          "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 72dB",
+          "AudioQuality": "Noise -94dB / Crosstalk -73.4dB",
+          "Battery": "Endurance rating 61h"
+        },
+        "brand": "Iphone"
+    },
+    {
+        "id": 6,
+        "name": "Iphone 6s",
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Launch": {
+          "Announced": "2015, September 09. Released 2015, September 25",
+          "Status": "Discontinued"
+        },
+        "Body": {
+          "Dimensions": "138.3 x 67.1 x 7.1 mm (5.44 x 2.64 x 0.28 in)",
+          "Weight": "143 g (5.04 oz)",
+          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+          "SIM": "Nano-SIM",
+          "ApplePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
+        },
+        "Display": {
+          "Type": "IPS LCD, 500 nits",
+          "Size": "4.7 inches, 60.9 cm2 (~65.6% screen-to-body ratio)",
+          "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+          "Protection": "Ion-strengthened glass, oleophobic coating",
+          "Extra": "3D Touch"
+        },
+        "Platform": {
+          "OS": "iOS 9, upgradable to iOS 15.8.5",
+          "Chipset": "Apple A9 (14/16 nm - maker dependant)",
+          "CPU": "Dual-core 1.84 GHz Twister",
+          "GPU": "PowerVR GT7600 (six-core graphics)"
+        },
+        "Memory": {
+          "CardSlot": "No",
+          "Internal": [
+            "16GB 2GB RAM",
+            "32GB 2GB RAM",
+            "64GB 2GB RAM",
+            "128GB 2GB RAM"
+          ]
+        },
+        "MainCamera": {
+          "Modules": "12 MP, f/2.2, 29mm, 1/3.0\", 1.22µm, PDAF",
+          "Features": "Dual-LED dual-tone flash, HDR",
+          "Video": "4K@30fps, 1080p@60fps,1080p@120fps, 720p@240fps"
+        },
+        "SelfieCamera": {
+          "Modules": "5 MP, f/2.2, 31mm (standard)",
+          "Features": "Face detection, HDR, panorama",
+          "Video": "720p@30fps"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes",
+          "Jack3_5mm": "Yes",
+          "Audio": "16-bit/44.1kHz audio"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+          "Bluetooth": "4.2, A2DP, LE",
+          "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+          "NFC": "Yes (Apple Pay only)",
+          "Infrared": "No",
+          "Radio": "No",
+          "USB": "Lightning, USB 2.0"
+        },
+        "Features": {
+          "Sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+          ]
+        },
+        "Battery": {
+          "Type": "Li-Ion 1715 mAh, non-removable (6.91 Wh)",
+          "StandBy": "Up to 240 h (3G)",
+          "TalkTime": "Up to 14 h (3G)"
+        },
+        "Misc": {
+          "Colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+          "SAR": {
+            "Head": "1.14 W/kg",
+            "Body": "1.14 W/kg"
+          },
+          "SAR_EU": {
+            "Head": "0.87 W/kg",
+            "Body": "0.98 W/kg"
+          },
+          "Models": ["A1633", "A1688", "A1691", "A1700", "iPhone8,1"],
+          "Price": "About 230 EUR"
+        },
+        "Tests": {
+          "Performance": "Basemark OS II 2.0: 2195",
+          "Display": "Contrast ratio: 1481 (nominal), 3.783 (sunlight)",
+          "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 65dB",
+          "AudioQuality": "Noise -93.8dB / Crosstalk -73.2dB",
+          "Battery": "Endurance rating 62h"
+        },
+        "brand": "Iphone"
     }
 ]
