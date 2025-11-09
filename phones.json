@@ -3,7 +3,8 @@
         "name": "Samsung A15",
         "price": 52000,
         "ram": "6GB",
-        "storage": "128GB"
+        "storage": "128GB",
+        "image": "/images/phones/samsung/samsung-A15.webp"
     },
     {
         "name": "Iphone 13",
