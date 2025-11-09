@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Samsung A26",
-        "image": "/images/phones/samsung/samsung-a26.webp",
+        "image": "F:/Projects for Deployment/comparison/public/images/phones/samsung/samsung-a26.webp",
         "network": {
             "technology": "GSM / HSPA / LTE"
         },
