@@ -1,14 +1,305 @@
 [
     {
-        "name": "HP",
-        "price": 10000,
-        "ram": "6GB",
-        "storage": "128GB"
+        "id": 1,
+        "name": "Acer Aspire 1 A115-32-C28P",
+        "image": "/images/laptops/acer/acer-aspire-a115-32-c28p.webp",
+        "brand": "Acer",
+        "series": "Aspire 1",
+        "model": "A115-32-C28P",
+      
+        "display": {
+          "size": "15.6 inches",
+          "resolution": "1920 x 1080",
+          "type": "IPS LCD / Full HD"
+        },
+      
+        "platform": {
+          "os": "Windows 10 Home (S Mode)",
+          "cpu": "Intel Celeron N4500 (Dual-core, 1.1GHz base)",
+          "gpu": "Intel UHD Graphics"
+        },
+      
+        "memory": {
+          "ram": "4GB DDR4",
+          "ram_type": "DDR4",
+          "storage": "128GB eMMC"
+        },
+      
+        "network": {
+          "wifi": "Wi-Fi 802.11 a/b/g/n/ac",
+          "bluetooth": "Bluetooth"
+        },
+      
+        "body": {
+          "weight": "1.9 kg",
+          "dimensions": "15.6-inch laptop – varies by region"
+        },
+      
+        "battery": {
+          "capacity": "36.7 Wh",
+          "type": "2-cell Lithium-Ion"
+        },
+      
+        "ports": [
+          "USB 3.1 Type-A",
+          "USB 2.0 Type-A",
+          "HDMI",
+          "Audio Jack",
+          "Power Port"
+        ],
+      
+        "extras": {
+          "webcam": "Yes",
+          "speakers": "Stereo",
+          "microphone": "Yes"
+        },
+      
+        "price": {
+          "international": "$190 – $230",
+          "pakistan_estimated": "PKR 55,000 – 70,000 (varies by condition/variant)"
+        }
     },
     {
-        "name": "Apple",
-        "price": 75000,
-        "ram": "2GB",
-        "storage": "64GB"
-    }
+        "id": 2,
+        "name": "Apple MacBook Air M1 (MGN63)",
+        "image": "/images/laptops/apple/macbook-air-m1-mgn63.webp",
+        "brand": "Apple",
+        "series": "MacBook Air",
+        "model": "MGN63",
+      
+        "display": {
+          "size": "13.3 inches",
+          "resolution": "2560 x 1600",
+          "type": "Retina IPS"
+        },
+      
+        "platform": {
+          "os": "macOS (Big Sur at launch, upgradable)",
+          "cpu": "Apple M1 (8-core: 4 performance + 4 efficiency)",
+          "gpu": "Apple M1 7-core GPU"
+        },
+      
+        "memory": {
+          "ram": "8GB Unified RAM",
+          "ram_type": "Unified LPDDR4X",
+          "storage": "256GB SSD"
+        },
+      
+        "network": {
+          "wifi": "Wi-Fi 6 (802.11ax)",
+          "bluetooth": "Bluetooth 5.0"
+        },
+      
+        "body": {
+          "weight": "1.29 kg",
+          "dimensions": "30.41 × 21.24 × 1.61 cm"
+        },
+      
+        "battery": {
+          "capacity": "49.9 Wh",
+          "type": "Built-in Lithium-Polymer"
+        },
+      
+        "ports": [
+          "2 × Thunderbolt / USB 4 (USB-C)",
+          "3.5mm headphone jack"
+        ],
+      
+        "extras": {
+          "webcam": "720p FaceTime HD",
+          "speakers": "Stereo speakers",
+          "microphone": "Three-mic array",
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "design": "Fanless design"
+        },
+      
+        "price": {
+          "international": "$999 (launch price)",
+          "pakistan_estimated": "PKR 180,000 – 220,000 (condition/variant)"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Dell Inspiron 15 3593",
+        "image": "/images/laptops/dell/dell-inspiron-15-3593.webp",
+        "brand": "Dell",
+        "series": "Inspiron 15 3000",
+        "model": "3593",
+      
+        "display": {
+          "size": "15.6 inches",
+          "resolution": "1920 x 1080 (Full HD) / 1366 x 768 (HD) – depending on variant",
+          "type": "IPS LCD or TN (depending on configuration)"
+        },
+      
+        "platform": {
+          "os": "Windows 10 Home (upgradeable)",
+          "cpu": "10th Generation Intel Core (i3 / i5 / i7) options", 
+          "gpu": "Integrated Intel UHD Graphics; Optional NVIDIA GeForce MX230"
+        },
+      
+        "memory": {
+          "ram": "4GB to 16GB DDR4 (depending on variant)",
+          "storage": "HDD or SSD options (e.g., 256GB SSD, 1TB HDD)"
+        },
+      
+        "network": {
+          "wifi": "Wi-Fi 802.11 a/b/g/n/ac",
+          "bluetooth": "Bluetooth 5.0 or 4.x (variant dependent)"
+        },
+      
+        "body": {
+          "weight": "Variable (approx manuals say ~2.0 kg max) ",
+          "dimensions": "380 mm × 258 mm × 19.89 mm (front) / 22.70 mm (rear) – depending variant" 
+        },
+      
+        "battery": {
+          "capacity": "Dell’s spec sheet doesn’t list a standard capacity for all variants",
+          "type": "Built-in Lithium-Ion (typical for 15.6\" Inspiron)"
+        },
+      
+        "ports": [
+          "2 × USB 3.1 Gen 1",
+          "1 × USB 2.0",
+          "1 × USB 3.1 Gen 1 Type-C (optional depending on variant) :contentReference[oaicite:1]{index=1}",
+          "1 × HDMI port :contentReference[oaicite:2]{index=2}",
+          "1 × Headset (combo) jack",
+          "SD-card reader (depending on variant) :contentReference[oaicite:3]{index=3}"
+        ],
+      
+        "extras": {
+          "webcam": "Yes (HD) – typical",
+          "speakers": "Stereo speakers – typical",
+          "optical_drive": "Optional (in some configurations) :contentReference[oaicite:4]{index=4}"
+        },
+      
+        "price": {
+          "international_estimated": "Varies by region & configuration",
+          "pakistan_estimated": "Varies widely (check local dealers)"
+        }
+    },
+    {
+        "id": 4,
+        "name": "HP 15 FD0532NIA",
+        "image": "/images/laptops/hp/hp-15-fd0532nia.webp",
+        "brand": "HP",
+        "series": "15",
+        "model": "FD0532NIA",
+      
+        "display": {
+          "size": "15.6 inches",
+          "resolution": "1920 x 1080",
+          "type": "Full HD (Anti-Glare)"
+        },
+      
+        "platform": {
+          "os": "FreeDOS 3.0 (some versions may ship with Windows)",
+          "cpu": "Intel Core i3-1315U (13th Gen)",
+          "gpu": "Intel UHD Graphics"
+        },
+      
+        "memory": {
+          "ram": "4 GB DDR4-3200 (configurable)",
+          "ram_type": "DDR4",
+          "storage": "256 GB SSD (PCIe NVMe M.2)"
+        },
+      
+        "network": {
+          "wifi": "Wi-Fi 6E (802.11ax) 1×1 (variant dependent)",
+          "bluetooth": "Bluetooth 5.3 (variant dependent)"
+        },
+      
+        "body": {
+          "weight": "1.59 kg",
+          "dimensions": "359.8 mm × 236 mm × 18.6 mm"
+        },
+      
+        "battery": {
+          "capacity": "41 Wh (3-cell Li-polymer)",
+          "type": "Lithium-Polymer"
+        },
+      
+        "ports": [
+          "1 × USB Type-C (5 Gbps, data only)",
+          "2 × USB Type-A (5 Gbps)",
+          "1 × HDMI 1.4b",
+          "1 × Headphone/microphone combo jack",
+          "1 × AC smart pin (charging)"
+        ],
+      
+        "extras": {
+          "webcam": "HP True Vision 720p HD with privacy shutter",
+          "speakers": "Dual speakers",
+          "keyboard": "Full-size backlit keyboard with numeric keypad",
+          "security": "Camera privacy shutter, TPM (Firmware)"
+        },
+      
+        "price": {
+          "international_estimated": "Varies by region and configuration",
+          "pakistan_estimated": "PKR ~109,000 (for 4 GB/256 GB variant) based on recent listings"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dynabook Satellite Pro C50-E-105",
+        "image": "/images/laptops/dynabook/dynabook-satellite-pro-c50-e-105.webp",
+        "brand": "Dynabook",
+        "series": "Satellite Pro C50",
+        "model": "C50-E-105",
+      
+        "display": {
+          "size": "15.6 inches",
+          "resolution": "1920 x 1080",
+          "type": "Full HD IPS (15.6\" 16:9)"
+        },
+      
+        "platform": {
+          "os": "Windows 10 Pro (varies by region)",
+          "cpu": "Intel Core i5-8250U (1.6 GHz base, up to ~3.4 GHz boost)",
+          "gpu": "Intel UHD Graphics 620"
+        },
+      
+        "memory": {
+          "ram": "8 GB DDR4-2400",
+          "storage": "256 GB SSD (M.2)"
+        },
+      
+        "network": {
+          "wifi": "Wi-Fi 5 (802.11ac dual-band)",
+          "bluetooth": "Bluetooth 4.2 (varies)"
+        },
+      
+        "body": {
+          "weight": "1.76 kg",
+          "dimensions": "362.5 × 240.5 × 19.7 mm"
+        },
+      
+        "battery": {
+          "type": "Lithium-Ion",
+          "cells": "2-cell",
+          "estimated_life": "Up to ~12.75 h (in some variants)"
+        },
+      
+        "ports": [
+          "USB Type-C (Power Delivery / DisplayPort)",
+          "USB 3.0 Type-A ports",
+          "HDMI output",
+          "Ethernet RJ-45 port",
+          "Combo headphone/microphone jack",
+          "MicroSD card reader"
+        ],
+      
+        "extras": {
+          "keyboard": "Full-size keyboard with numeric keypad",
+          "webcam": "HD front camera",
+          "speakers": "Stereo speakers",
+          "security": "TPM 2.0, Kensington Lock slot"
+        },
+      
+        "price": {
+          "international_estimated": "Varies by region and configuration",
+          "pakistan_estimated": "Used/refurbished examples – PKR approx. (check market)"
+        }
+      }
+      
 ]
