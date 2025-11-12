@@ -2,7 +2,9 @@
     {
       "id": 1,
       "name": "Super Asia SA-812i Inverter",
-      "image": "/images/washing-machines/super-asia/sa-812i.webp",
+      "image_small": "/images/washing machines/asia-SA-812i-small.webp",
+      "image_medium": "/images/washing machines/asia-SA-812i-medium.webp",
+      "image_large": "/images/washing machines/asia-SA-812i-large.webp",
       "brand": "Super Asia",
       "model": "SA-812i",
       "type": "Fully Automatic Top Load Washing Machine",
@@ -41,7 +43,9 @@
     {
       "id": 2,
       "name": "Boss K.E-3000-N-15-BS",
-      "image": "/images/washing-machines/boss/ke-3000-n-15-bs.webp",
+      "image_small": "/images/washing machines/boss-3000-N 15-BS-small.webp",
+      "image_medium": "/images/washing machines/boss-3000-N 15-BS-medium.webp",
+      "image_large": "/images/washing machines/boss-3000-N 15-BS-large.webp",
       "brand": "Boss",
       "model": "K.E-3000-N-15-BS",
       "type": "Semi-Automatic Single Tub Washing Machine",
@@ -72,7 +76,9 @@
     {
       "id": 3,
       "name": "Haier HWM-80-AS",
-      "image": "/images/washing-machines/haier/hwm-80-as.webp",
+      "image_small": "/images/washing machines/Haier-HWM-80-AS-Washing-Machine-small.webp",
+      "image_medium": "/images/washing machines/Haier-HWM-80-AS-Washing-Machine-medium.webp",
+      "image_large": "/images/washing machines/Haier-HWM-80-AS-Washing-Machine-large.webp",
       "brand": "Haier",
       "model": "HWM-80-AS",
       "type": "Twin Tub Washing Machine",
@@ -100,7 +106,9 @@
     {
       "id": 4,
       "name": "Haier HWM-100-AS",
-      "image": "/images/washing-machines/haier/hwm-100-as.webp",
+      "image_small": "/images/washing machines/Haier-HWM-100-AS-small.webp",
+      "image_medium": "/images/washing machines/Haier-HWM-100-AS-medium.webp",
+      "image_large": "/images/washing machines/Haier-HWM-100-AS-large.webp",
       "brand": "Haier",
       "model": "HWM-100-AS",
       "type": "Twin Tub Washing Machine",
