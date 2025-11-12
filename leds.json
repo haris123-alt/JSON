@@ -1,92 +1,297 @@
 [
-    {
-      "id": 1,
-      "name": "Super Asia SA‑812i Inverter",
-      "image": "/images/washing‑machines/super‑asia/sa‑812i.webp",
-      "brand": "Super Asia",
-      "model": "SA‑812i",
-      "type": "Fully Automatic Top Load Washing Machine",
-      "specifications": {
-        "wash_capacity": "12 kg", 
-        "drum_material": "Stainless Steel", 
-        "noise_level": "65 dB during wash", 
-        "weight_net": "43 kg", 
-        "weight_gross": "47 kg", 
-        "features": [
-          "Wiggle Technology Pulsator",
-          "Curved Diamond Shaped Drum",
-          "Super AI DD Motor",
-          "Aqua Preserve (Water Saving)",
-          "Fuzzy Logic Control",
-          "One Touch Wash",
-          "Multi‑Directional Water Flow",
-          "Soft Closing Glass Lid",
-          "10 Water Levels",
-          "Auto Unbalancing Detection"
-        ],
-        "packing_dimensions": "660 x 740 x 1190 mm",
-        "voltage": "220‑240V"
-      }
+  {
+    "id": 1,
+    "name": "Haier H65K800UX",
+    "brand": "Haier",
+    "model": "H65K800UX",
+    "image": "/images/tvs/haier/haier-h65k800ux.webp",
+    "general_information": {
+      "type": "LED Smart TV",
+      "screen_size": "65 inches",
+      "resolution": "3840 x 2160 (4K UHD)",
+      "year": "2024?",
+      "OS": "Google TV / Android 11.0" 
     },
-    {
-      "id": 2,
-      "name": "Boss K.E‑3000‑N‑15‑BS / K.E 3000‑N‑15‑BS",
-      "image": "/images/washing‑machines/boss/ke‑3000‑n‑15‑bs.webp",
-      "brand": "Boss",
-      "model": "K.E‑3000‑N‑15‑BS",
-      "type": "Semi‑Automatic Single Tub Washing Machine",
-      "specifications": {
-        "wash_capacity": "12 kg", 
-        "rated_wash_power": "200 W", 
-        "voltage": "220V ~ 50 Hz", 
-        "timer": "15 minutes", 
-        "net_weight": "12.8 kg", 
-        "gross_weight": "15.6 kg", 
-        "dimensions": "533 x 457 x 965 mm", 
-        "inner_bucket_material": "CO‑PP", 
-        "outer_case_material": "CO‑PP"
-      }
+    "display": {
+      "panel_type": "LED, bezel-less design",
+      "refresh_rate": "60 Hz",
+      "contrast_ratio": "5000:1 (or 6000:1 depending listing)", 
+      "brightness_cd/m2": "approx 280-300",
+      "viewing_angles": "≈176°/176°"
     },
-    {
-      "id": 3,
-      "name": "Haier HWM‑80‑AS",
-      "image": "/images/washing‑machines/haier/hwm‑80‑as.webp",
-      "brand": "Haier",
-      "model": "HWM‑80‑AS",
-      "type": "Twin Tub Washing Machine",
-      "specifications": {
-        "wash_capacity": "8 kg", 
-        "spin_capacity": "6 kg", 
-        "spin_speed_rpm": "850 rpm", 
-        "dimensions_mm": "755 x 435 x 905 mm", 
-        "weight": "18.5 Kg", 
-        "motor_material": "99.99% Copper", 
-        "features": [
-          "Lint Filter",
-          "Virgin Plastic Body",
-          "Standard & Strong Programs"
-        ]
-      }
+    "video": {
+      "hdr": "Yes (Dolby Vision / HDR10)",
+      "color_depth": "1.07 billion colors",
+      "picture_modes": ["User", "Standard", "Vivid", "Sport", "Movie", "Game", "Energy Saving"] 
     },
-    {
-      "id": 4,
-      "name": "Haier HWM‑100‑AS",
-      "image": "/images/washing‑machines/haier/hwm‑100‑as.webp",
-      "brand": "Haier",
-      "model": "HWM‑100‑AS",
-      "type": "Twin Tub Washing Machine",
-      "specifications": {
-        "wash_capacity": "10 kg", 
-        "spin_capacity": "8 kg", 
-        "spin_speed_rpm": "850 rpm", 
-        "dimensions_mm": "755 x 435 x 950 mm", 
-        "weight": "20 kg", 
-        "motor_material": "99.99% Copper", 
-        "features": [
-          "Virgin Plastic Body",
-          "Standard & Strong Program"
-        ]
-      }
+    "audio": {
+      "sound_output": "Dolby Audio & dbx-TV",
+      "speaker_configuration": "Integrated speakers (2-ch or more)",
+      "features": ["Surround Sound", "Bluetooth Remote"]
+    },
+    "connectivity": {
+      "HDMI_ports": "4 × HDMI 2.1 (some listings)",
+      "USB_ports": "Number unspecified (some listings: 2/3)",
+      "WiFi": "WiFi + Ethernet LAN",
+      "Bluetooth": "Bluetooth 5.1",
+      "other": ["Chromecast built-in", "Google Assistant", "Bezel-less design"]
+    },
+    "accessories": {
+      "remote_controller": "Smart Bluetooth Remote",
+      "batteries_included": true,
+      "user_manual": true,
+      "wall_mount": "VESA compatible"
+    },
+    "power": {
+      "voltage": "AC 100-240V ~ 50/60Hz",
+      "power_consumption_typical": "not specified",
+      "energy_rating": "some listings: 5-Star"
+    },
+    "environment": {
+      "eco_features": "Energy Saving Mode, possibly Smart Power Off",
+      "standby_power": "not specified"
+    },
+    "weight": {
+      "set_weight_with_stand": "not specified",
+      "set_weight_without_stand": "not specified",
+      "package_weight": "not specified"
     }
-  ]
-  
+  },
+  {
+    "id": 2,
+    "name": "Samsung UA43T5300",
+    "brand": "Samsung",
+    "model": "UA43T5300",
+    "image": "/images/tvs/samsung/samsung-ua43t5300.webp",
+    "general_information": {
+      "type": "LED Smart TV",
+      "screen_size": "43 inches",
+      "resolution": "1920 x 1080 (Full HD)",
+      "series": "T5300",
+      "OS": "Tizen"
+    },
+    "display": {
+      "panel_type": "LED",
+      "refresh_rate": "50 Hz (Motion Rate or equivalent)",
+      "panel_dimensions": {
+        "with_stand": "979.9 x 596.6 x 170.3 mm",
+        "without_stand": "979.9 x 571.9 x 77.3 mm"
+      },
+      "brightness_max": "not specified",
+      "eco_sensor": true
+    },
+    "video": {
+      "hdr": "HDR supported",
+      "picture_engine": "Hyper Real",
+      "features": ["PurColor", "Ultra Clean View", "Contrast Enhancer"]
+    },
+    "audio": {
+      "sound_output": "20W (2CH) [per one listing] :contentReference[oaicite:0]{index=0}",
+      "features": ["Dolby Digital Plus", "Multiroom Link"]
+    },
+    "connectivity": {
+      "HDMI_ports": "2",
+      "USB_ports": "1",
+      "WiFi": "Yes (built-in WiFi)",
+      "Ethernet": "Yes (some listings)",
+      "other": ["Smart Hub, One Remote Control, Mobile Mirroring, DLNA"]
+    },
+    "accessories": {
+      "remote_controller_model": "TM1240A",
+      "batteries": true,
+      "mini_wall_mount_support": true,
+      "vesa_wall_mount_support": true,
+      "user_manual": true,
+      "power_cable": true
+    },
+    "power": {
+      "voltage": "AC100-240V ~50/60Hz",
+      "power_consumption_max": "120 W contentReference[oaicite:1]{index=1}"
+    },
+    "environment": {
+      "auto_power_off": "contentReference[oaicite:2]{index=2}",
+      "eco_features": ["Eco Sensor"]
+    },
+    "weight": {
+      "package_weight": "10.80 kg",
+      "set_weight_with_stand": "8.10 kg",
+      "set_weight_without_stand": "8.0 kg contentReference[oaicite:3]{index=3}"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sony KDL-32W600D",
+    "brand": "Sony",
+    "model": "32W600D",
+    "image": "/images/tvs/sony/sony-32w600d.webp",
+    "general_information": {
+      "type": "LED Smart TV",
+      "screen_size": "32 inches (31.5 inch diag)",
+      "resolution": "1366 x 768 (HD)",
+      "year": "2016"
+    },
+    "display": {
+      "panel_type": "Direct-LED IPS",
+      "refresh_rate": "60 Hz (Motionflow XR 240 interpolation)",
+      "brightness_cd/m2": "250 cd/m² (typical) :contentReference[oaicite:4]{index=4}",
+      "contrast_ratio": "1000:1 :contentReference[oaicite:5]{index=5}"
+    },
+    "video": {
+      "hdr": "No / not specified",
+      "features": ["Smart TV OS", "Motionflow XR 240"]
+    },
+    "audio": {
+      "sound_output": "2 × 5W (Total ~10W) :contentReference[oaicite:6]{index=6}",
+      "features": ["Dolby Digital", "Dolby Digital Plus"]
+    },
+    "connectivity": {
+      "HDMI_ports": "2",
+      "USB_ports": "2",
+      "Ethernet": "Yes",
+      "WiFi": "Yes",
+      "other": ["RF input", "Component/Composite switchable"]
+    },
+    "accessories": {
+      "remote_controller": true,
+      "stand": "Detachable",
+      "wall_mount": "VESA 200×200 mm",
+      "user_manual": true
+    },
+    "power": {
+      "voltage": "AC 100-240 V",
+      "power_consumption_typical": "45 W",
+      "standby_power": "0.5 WcontentReference[oaicite:7]{index=7}"
+    },
+    "environment": {
+      "eco_features": ["Energy Saving Mode"]
+    },
+    "weight": {
+      "set_weight_without_stand": "4.9 kg (10.8 lb) :contentReference[oaicite:8]{index=8}",
+      "package_weight": "7 kg (15.5 lb) :contentReference[oaicite:9]{index=9}"
+    }
+  },
+  {
+    "id": 4,
+    "name": "TCL 32S5400",
+    "brand": "TCL",
+    "model": "32S5400",
+    "image": "/images/tvs/tcl/tcl-32s5400.webp",
+    "general_information": {
+      "type": "LED Smart TV",
+      "screen_size": "32 inches",
+      "resolution": "1920 x 1080 (Full HD)",
+      "OS": "Google TV / Android TV"
+    },
+    "display": {
+      "panel_type": "Direct-LED VA",
+      "refresh_rate": "60 Hz",
+      "brightness_cd/m2": "200 (typ) / 220 (min) :contentReference[oaicite:10]{index=10}",
+      "contrast_ratio": "5000:1 :contentReference[oaicite:11]{index=11}"
+    },
+    "video": {
+      "hdr": "HDR10 supported",
+      "features": ["Google TV UI", "Dolby Audio"]
+    },
+    "audio": {
+      "sound_output": "2 × 9.5W (Total ~19W) :contentReference[oaicite:12]{index=12}",
+      "features": ["Dolby Audio"]
+    },
+    "connectivity": {
+      "HDMI_ports": "2",
+      "USB_ports": "1",
+      "WiFi": "Yes",
+      "Bluetooth": "Bluetooth 5.0",
+      "other": ["Google Assistant built-in", "16GB storage + 1.5GB RAM variant listed"] 
+    },
+    "accessories": {
+      "remote_controller": true,
+      "batteries": true,
+      "wall_mount": "VESA compatible",
+      "user_manual": true
+    },
+    "power": {
+      "voltage": "AC 100-240V ~50/60Hz",
+      "power_consumption": "≈75W (listing) :contentReference[oaicite:13]{index=13}",
+      "standby_power": "<0.5W"
+    },
+    "environment": {
+      "energy_star_rating": "5.5 Star (some variant) :contentReference[oaicite:14]{index=14}"
+    },
+    "weight": {
+      "weight_not_specified": "—" 
+    }
+  },
+  {
+    "id": 6,
+    "name": "EcoStar Sound Pro 50\" (CX50UD901)",
+    "brand": "EcoStar",
+    "model": "CX50UD901",
+    "image": "/images/tvs/ecostar/ecostar-cx50ud901-sound-pro.webp",
+    "general_information": {
+      "type": "LED Smart TV",
+      "screen_size": "50 inches",
+      "resolution": "3840 x 2160 (4K UHD)",
+      "series": "Sound Pro",
+      "OS": "Non-specified (likely Smart TV platform)"
+    },
+    "display": {
+      "panel_type": "LED",
+      "refresh_rate": "60 Hz",
+      "contrast_ratio": "not specified",
+      "brightness_cd/m2": "not specified",
+      "viewing_angle": "wide viewing angle (yes)"
+    },
+    "video": {
+      "hdr": "Yes (4K UHD)",
+      "features": [
+        "Motion Engine",
+        "Image Refinery",
+        "Nature View",
+        "Digital Noise Reduction",
+        "Auto Power Off",
+        "Wide Viewing Angle"
+      ]
+    },
+    "audio": {
+      "sound_output": "Surround Sound",
+      "speaker_configuration": "Integrated speakers",
+      "features": [
+        "Surround Sound",
+        "High Audio and Video Quality"
+      ]
+    },
+    "connectivity": {
+      "HDMI_ports": "3",
+      "USB_ports": "Yes (unspecified number)",
+      "WiFi": "built-in",
+      "Bluetooth": "not specified",
+      "other": [
+        "USB connectivity (video/audio/images)",
+        "Plug and Play content from USB/HDMI"
+      ]
+    },
+    "accessories": {
+      "remote_controller": true,
+      "batteries_for_remote": true,
+      "user_manual": true,
+      "base_stand": true,
+      "wall_mount_bracket": true,
+      "power_cable": "built-in"
+    },
+    "power": {
+      "voltage": "AC 110-240V ~50/60Hz",
+      "power_consumption_typical": "120 W",
+      "standby_power": "< 0.5 W",
+      "energy_saving": true
+    },
+    "environment": {
+      "operating_temperature": "5°C ~ 40°C",
+      "humidity": "10% ~ 85%"
+    },
+    "weight": {
+      "set_weight_with_stand": "not specified",
+      "set_weight_without_stand": "not specified",
+      "package_weight": "not specified"
+    }
+  }
+]

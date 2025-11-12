@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "name": "Super Asia SA-812i Inverter",
+      "image": "/images/washing-machines/super-asia/sa-812i.webp",
+      "brand": "Super Asia",
+      "model": "SA-812i",
+      "type": "Fully Automatic Top Load Washing Machine",
+      "specifications": {
+        "color": "Silver Gray",
+        "capacity": "12 kg",
+        "spin_speed": "800 rpm",
+        "programs": [
+          "Normal Wash",
+          "Heavy Wash",
+          "Quick Wash",
+          "Soak",
+          "Rinse + Spin",
+          "Air Dry"
+        ],
+        "features": [
+          "Wiggle Technology Pulsator",
+          "Curved Diamond Shaped Drum",
+          "Super AI DD Motor",
+          "Aqua Preserve (Water Saving)",
+          "Fuzzy Logic Control",
+          "One Touch Wash",
+          "Multi-Directional Water Flow",
+          "Soft Closing Glass Lid",
+          "10 Water Levels",
+          "Auto Unbalancing Detection"
+        ],
+        "dimensions": "660 x 740 x 1190 mm",
+        "drum_material": "Stainless Steel",
+        "noise_level": "65 dB during wash",
+        "weight_net": "43 kg",
+        "weight_gross": "47 kg",
+        "voltage": "220-240V"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Boss K.E-3000-N-15-BS",
+      "image": "/images/washing-machines/boss/ke-3000-n-15-bs.webp",
+      "brand": "Boss",
+      "model": "K.E-3000-N-15-BS",
+      "type": "Semi-Automatic Single Tub Washing Machine",
+      "specifications": {
+        "color": "White & Blue",
+        "capacity": "12 kg",
+        "spin_speed": "Not Applicable (No spin tub)",
+        "programs": [
+          "Normal Wash",
+          "Strong Wash"
+        ],
+        "features": [
+          "Rust-proof plastic body",
+          "Powerful single-tub pulsator",
+          "15-minute wash timer",
+          "Energy efficient motor",
+          "Compact & portable design"
+        ],
+        "dimensions": "533 x 457 x 965 mm",
+        "rated_wash_power": "200 W",
+        "voltage": "220V ~ 50 Hz",
+        "net_weight": "12.8 kg",
+        "gross_weight": "15.6 kg",
+        "inner_bucket_material": "CO-PP",
+        "outer_case_material": "CO-PP"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Haier HWM-80-AS",
+      "image": "/images/washing-machines/haier/hwm-80-as.webp",
+      "brand": "Haier",
+      "model": "HWM-80-AS",
+      "type": "Twin Tub Washing Machine",
+      "specifications": {
+        "color": "White & Grey",
+        "capacity": "8 kg",
+        "spin_speed": "850 rpm",
+        "programs": [
+          "Standard Wash",
+          "Strong Wash",
+          "Drain"
+        ],
+        "features": [
+          "Lint Filter",
+          "Virgin Plastic Body",
+          "Standard & Strong Programs",
+          "Double Layer Durable Body",
+          "Powerful Motor with Copper Winding"
+        ],
+        "dimensions": "755 x 435 x 905 mm",
+        "weight": "18.5 kg",
+        "motor_material": "99.99% Copper"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Haier HWM-100-AS",
+      "image": "/images/washing-machines/haier/hwm-100-as.webp",
+      "brand": "Haier",
+      "model": "HWM-100-AS",
+      "type": "Twin Tub Washing Machine",
+      "specifications": {
+        "color": "White & Grey",
+        "capacity": "10 kg",
+        "spin_speed": "850 rpm",
+        "programs": [
+          "Normal Wash",
+          "Strong Wash",
+          "Drain"
+        ],
+        "features": [
+          "Virgin Plastic Body",
+          "Powerful Copper Motor",
+          "Energy Efficient Wash System",
+          "Heavy Duty Pulsator",
+          "Durable Twin Tub Design"
+        ],
+        "dimensions": "755 x 435 x 950 mm",
+        "weight": "20 kg",
+        "motor_material": "99.99% Copper"
+      }
+    }
+  ]
+  
