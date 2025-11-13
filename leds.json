@@ -234,9 +234,9 @@
     "name": "EcoStar Sound Pro 50\" (CX50UD901)",
     "brand": "EcoStar",
     "model": "CX50UD901",
-    "image_small": "/images/leds/tcl-ecostar-sound-pro-small.webp",
-    "image_medium": "/images/leds/tcl-ecostar-sound-pro-medium.webp",
-    "image_large": "/images/leds/tcl-ecostar-sound-pro-large.webp",
+    "image_small": "/images/leds/ecostar-sound-pro-small.webp",
+    "image_medium": "/images/leds/ecostar-sound-pro-medium.webp",
+    "image_large": "/images/leds/ecostar-sound-pro-large.webp",
     "general_information": {
       "type": "LED Smart TV",
       "screen_size": "50 inches",
