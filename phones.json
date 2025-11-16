@@ -61,11 +61,11 @@
         },
           "comms": {
             "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-            "Bluetooth": "5.3, A2DP, LE",
-            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "bluetooth": "5.3, A2DP, LE",
+            "positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
             "NFC": "Yes (market/region dependent)",
-            "Infrared_port": "No",
-            "Radio": "FM radio (market/region dependent)",
+            "infrared_port": "No",
+            "radio": "FM radio (market/region dependent)",
             "USB": "USB Type-C 2.0"
         },
           "features": {
@@ -131,69 +131,69 @@
         "name": "Iphone 6s Plus",
         "image": "/images/phones/iphone/iphone-6s.webp",
         "brand": "Iphone",
-        "Network": {
-          "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        "network": {
+          "technology": "GSM / CDMA / HSPA / EVDO / LTE"
         },
-        "Launch": {
-          "Announced": "2015, September 09. Released 2015, September 25",
-          "Status": "Discontinued"
+        "launch": {
+          "announced": "2015, September 09. Released 2015, September 25",
+          "status": "Discontinued"
         },
-        "Body": {
-          "Dimensions": "158.2 x 77.9 x 7.3 mm (6.23 x 3.07 x 0.29 in)",
-          "Weight": "192 g (6.77 oz)",
-          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+        "body": {
+          "dimensions": "158.2 x 77.9 x 7.3 mm (6.23 x 3.07 x 0.29 in)",
+          "weight": "192 g (6.77 oz)",
+          "build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
           "SIM": "Nano-SIM",
-          "ApplePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
+          "applePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
         },
-        "Display": {
-          "Type": "IPS LCD",
-          "Size": "5.5 inches, 83.4 cm² (~67.7% screen-to-body ratio)",
-          "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
-          "Protection": "Ion-strengthened glass, oleophobic coating",
-          "Extra": "3D Touch display"
+        "display": {
+          "type": "IPS LCD",
+          "size": "5.5 inches, 83.4 cm² (~67.7% screen-to-body ratio)",
+          "resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+          "protection": "Ion-strengthened glass, oleophobic coating",
+          "extra": "3D Touch display"
         },
-        "Platform": {
+        "platform": {
           "OS": "iOS 9, upgradable to iOS 15.8.5",
-          "Chipset": "Apple A9 (14/16 nm - maker dependant)",
+          "chipset": "Apple A9 (14/16 nm - maker dependant)",
           "CPU": "Dual-core 1.84 GHz Twister",
           "GPU": "PowerVR GT7600 (six-core graphics)"
         },
-        "Memory": {
-          "CardSlot": "No",
-          "Internal": [
+        "memory": {
+          "cardSlot": "No",
+          "internal": [
             "16GB 2GB RAM",
             "32GB 2GB RAM",
             "64GB 2GB RAM",
             "128GB 2GB RAM"
           ],
-          "Type": "NVMe"
+          "type": "NVMe"
         },
-        "MainCamera": {
-          "Modules": "12 MP, f/2.2, 29mm (standard), 1/3.0\", 1.22µm, PDAF, OIS",
-          "Features": "Dual-LED dual-tone flash, HDR",
-          "Video": "4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps"
+        "mainCamera": {
+          "modules": "12 MP, f/2.2, 29mm (standard), 1/3.0\", 1.22µm, PDAF, OIS",
+          "features": "Dual-LED dual-tone flash, HDR",
+          "video": "4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps"
         },
-        "SelfieCamera": {
-          "Modules": "5 MP, f/2.2, 31mm (standard)",
-          "Features": "Face detection, HDR, panorama",
-          "Video": "720p@30fps"
+        "selfieCamera": {
+          "modules": "5 MP, f/2.2, 31mm (standard)",
+          "features": "Face detection, HDR, panorama",
+          "video": "720p@30fps"
         },
-        "Sound": {
-          "Loudspeaker": "Yes",
-          "Jack3_5mm": "Yes",
-          "Audio": "16-bit/44.1kHz audio"
+        "sound": {
+          "loudspeaker": "Yes",
+          "jack3_5mm": "Yes",
+          "audio": "16-bit/44.1kHz audio"
         },
-        "Comms": {
+        "comms": {
           "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
-          "Bluetooth": "4.2, A2DP, LE",
-          "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+          "bluetooth": "4.2, A2DP, LE",
+          "positioning": "GPS, GLONASS, GALILEO, QZSS",
           "NFC": "Yes (Apple Pay only)",
-          "Infrared": "No",
-          "Radio": "No",
+          "infrared": "No",
+          "radio": "No",
           "USB": "Lightning, USB 2.0"
         },
-        "Features": {
-          "Sensors": [
+        "features": {
+          "sensors": [
             "Fingerprint (front-mounted)",
             "accelerometer",
             "gyro",
@@ -202,32 +202,32 @@
             "barometer"
           ]
         },
-        "Battery": {
-          "Type": "Li-Ion 2750 mAh, non-removable (10.45 Wh)",
-          "StandBy": "Up to 384 h (3G)",
-          "TalkTime": "Up to 24 h (3G)"
+        "battery": {
+          "type": "Li-Ion 2750 mAh, non-removable (10.45 Wh)",
+          "standBy": "Up to 384 h (3G)",
+          "talkTime": "Up to 24 h (3G)"
         },
-        "Misc": {
-          "Colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+        "misc": {
+          "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
           "SAR": {
-            "Head": "1.12 W/kg",
-            "Body": "1.14 W/kg"
+            "head": "1.12 W/kg",
+            "body": "1.14 W/kg"
           },
           "SAR_EU": {
-            "Head": "0.93 W/kg",
-            "Body": "0.98 W/kg"
+            "head": "0.93 W/kg",
+            "body": "0.98 W/kg"
           },
-          "Models": ["A1634", "A1687", "A1690", "A1699", "iPhone8,2"],
-          "Price": {
+          "models": ["A1634", "A1687", "A1690", "A1699", "iPhone8,2"],
+          "price": {
             "RS": "Rs.22,000"
           }
         },
-        "Tests": {
-          "Performance": "Basemark OS II 2.0: 2261",
-          "Display": "Contrast ratio: 1382:1 (nominal), 3.530 (sunlight)",
-          "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 64dB",
-          "AudioQuality": "Noise -93.4dB / Crosstalk -71.1dB",
-          "Battery": "Endurance rating 85h"
+        "tests": {
+          "performance": "Basemark OS II 2.0: 2261",
+          "display": "Contrast ratio: 1382:1 (nominal), 3.530 (sunlight)",
+          "loudspeaker": "Voice 65dB / Noise 65dB / Ring 64dB",
+          "audioQuality": "Noise -93.4dB / Crosstalk -71.1dB",
+          "battery": "Endurance rating 85h"
         }
     }, 
     {
@@ -300,11 +300,11 @@
         },
         "comms": {
           "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-          "Bluetooth": "5.3, A2DP, LE",
-          "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+          "bluetooth": "5.3, A2DP, LE",
+          "positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
           "NFC": "Yes (market/region dependent)",
-          "Infrared_port": "No",
-          "Radio": "Unspecified",
+          "infrared_port": "No",
+          "radio": "Unspecified",
           "USB": "USB Type-C 2.0, OTG"
         },
         "features": {
@@ -346,14 +346,14 @@
             "SM-A266U1",
             "SM-A266W"
           ],
-          "Price": {
+          "price": {
             "RS": "Rs.57,000"
           }
         },
         "our_tests": {
           "performance": {
-            "AnTuTu_v10": 579811,
-            "GeekBench_v6": 2768,
+            "anTuTu_v10": 579811,
+            "geekBench_v6": 2768,
             "3DMark_Wild_Life_Extreme": 794
           },
           "display": "777 nits max brightness (measured)",
@@ -430,11 +430,11 @@
         },
         "comms": {
           "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-          "Bluetooth": "5.3, A2DP, LE",
-          "Positioning": "GPS, GLONASS, GALILEO, BDS",
+          "bluetooth": "5.3, A2DP, LE",
+          "positioning": "GPS, GLONASS, GALILEO, BDS",
           "NFC": "No",
-          "Infrared_port": "No",
-          "Radio": "FM radio",
+          "infrared_port": "No",
+          "radio": "FM radio",
           "USB": "USB Type-C 2.0"
         },
         "features": {
@@ -460,17 +460,17 @@
             "SM-A065M",
             "SM-A065M/DS"
           ],
-          "Price": {
+          "price": {
             "RS": "Rs.62,000"
           }
         },
         "our_tests": {
           "performance": {
-            "AnTuTu": {
+            "anTuTu": {
               "v9": 182064,
               "v10": 247675
             },
-            "GeekBench": {
+            "geekBench": {
               "v5": 1273,
               "v6": 1276
             },
@@ -488,67 +488,67 @@
         "id": 5,
         "name": "Iphone 6",
         "image": "/images/phones/iphone/ip6-medium.webp",
-        "Network": {
-          "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        "network": {
+          "technology": "GSM / CDMA / HSPA / EVDO / LTE"
         },
-        "Launch": {
-          "Announced": "2014, September 09. Released 2014, September 19",
-          "Status": "Discontinued"
+        "launch": {
+          "announced": "2014, September 09. Released 2014, September 19",
+          "status": "Discontinued"
         },
-        "Body": {
-          "Dimensions": "138.1 x 67 x 6.9 mm (5.44 x 2.64 x 0.27 in)",
-          "Weight": "129 g (4.55 oz)",
-          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+        "body": {
+          "dimensions": "138.1 x 67 x 6.9 mm (5.44 x 2.64 x 0.27 in)",
+          "weight": "129 g (4.55 oz)",
+          "build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
           "SIM": "Nano-SIM",
-          "ApplePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
+          "applePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
         },
-        "Display": {
-          "Type": "IPS LCD",
-          "Size": "4.7 inches, 60.9 cm2 (~65.8% screen-to-body ratio)",
-          "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
-          "Protection": "Ion-strengthened glass, oleophobic coating"
+        "display": {
+          "type": "IPS LCD",
+          "size": "4.7 inches, 60.9 cm2 (~65.8% screen-to-body ratio)",
+          "resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+          "protection": "Ion-strengthened glass, oleophobic coating"
         },
-        "Platform": {
+        "platform": {
           "OS": "iOS 8, upgradable to iOS 12.5.7",
-          "Chipset": "Apple A8 (20 nm)",
+          "chipset": "Apple A8 (20 nm)",
           "CPU": "Dual-core 1.4 GHz Typhoon (ARM v8-based)",
           "GPU": "PowerVR GX6450 (quad-core graphics)"
         },
-        "Memory": {
-          "CardSlot": "No",
-          "Internal": [
+        "memory": {
+          "cardSlot": "No",
+          "internal": [
             "16GB 1GB RAM",
             "32GB 1GB RAM",
             "64GB 1GB RAM",
             "128GB 1GB RAM"
           ]
         },
-        "MainCamera": {
-          "Modules": "8 MP, f/2.2, 29mm, 1/3.0\", 1.5µm, PDAF",
-          "Features": "Dual-LED dual-tone flash, HDR",
-          "Video": "1080p@60fps, 720p@240fps"
+        "mainCamera": {
+          "modules": "8 MP, f/2.2, 29mm, 1/3.0\", 1.5µm, PDAF",
+          "features": "Dual-LED dual-tone flash, HDR",
+          "video": "1080p@60fps, 720p@240fps"
         },
-        "SelfieCamera": {
-          "Modules": "1.2 MP, f/2.2, 31mm (standard)",
-          "Features": "face detection, HDR, FaceTime over Wi-Fi or Cellular",
-          "Video": "720p@30fps"
+        "selfieCamera": {
+          "modules": "1.2 MP, f/2.2, 31mm (standard)",
+          "features": "face detection, HDR, FaceTime over Wi-Fi or Cellular",
+          "video": "720p@30fps"
         },
-        "Sound": {
-          "Loudspeaker": "Yes",
-          "Jack3_5mm": "Yes",
-          "Audio": "16-bit/44.1kHz audio"
+        "sound": {
+          "loudspeaker": "Yes",
+          "jack3_5mm": "Yes",
+          "audio": "16-bit/44.1kHz audio"
         },
-        "Comms": {
+        "comms": {
           "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
-          "Bluetooth": "4.0, A2DP, LE",
-          "Positioning": "GPS, GLONASS",
+          "bluetooth": "4.0, A2DP, LE",
+          "positioning": "GPS, GLONASS",
           "NFC": "Yes (Apple Pay only)",
-          "Infrared": "No",
-          "Radio": "No",
+          "infrared": "No",
+          "radio": "No",
           "USB": "Lightning, USB 2.0"
         },
-        "Features": {
-          "Sensors": [
+        "features": {
+          "sensors": [
             "Fingerprint (front-mounted)",
             "accelerometer",
             "gyro",
@@ -557,32 +557,32 @@
             "barometer"
           ]
         },
-        "Battery": {
-          "Type": "Li-Po 1810 mAh, non-removable (6.9 Wh)",
-          "StandBy": "Up to 250 h (3G)",
-          "TalkTime": "Up to 14 h (3G)"
+        "battery": {
+          "type": "Li-Po 1810 mAh, non-removable (6.9 Wh)",
+          "standBy": "Up to 250 h (3G)",
+          "talkTime": "Up to 14 h (3G)"
         },
-        "Misc": {
-          "Colors": ["Space Gray", "Silver", "Gold"],
+        "misc": {
+          "colors": ["Space Gray", "Silver", "Gold"],
           "SAR": {
-            "Head": "1.18 W/kg",
-            "Body": "1.18 W/kg"
+            "head": "1.18 W/kg",
+            "body": "1.18 W/kg"
           },
           "SAR_EU": {
-            "Head": "0.98 W/kg",
-            "Body": "0.97 W/kg"
+            "head": "0.98 W/kg",
+            "body": "0.97 W/kg"
           },
-          "Models": ["A1549", "A1586", "A1589", "A1522", "A1524", "A1593", "iPhone7,2"],
-          "Price": {
+          "models": ["A1549", "A1586", "A1589", "A1522", "A1524", "A1593", "iPhone7,2"],
+          "price": {
             "RS": "Rs.93,000"
           }
         },
-        "Tests": {
-          "Performance": "Basemark X: 15841",
-          "Display": "Contrast ratio: 1213 (nominal), 3.838 (sunlight)",
-          "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 72dB",
-          "AudioQuality": "Noise -94dB / Crosstalk -73.4dB",
-          "Battery": "Endurance rating 61h"
+        "tests": {
+          "performance": "Basemark X: 15841",
+          "display": "Contrast ratio: 1213 (nominal), 3.838 (sunlight)",
+          "loudspeaker": "Voice 66dB / Noise 65dB / Ring 72dB",
+          "audioQuality": "Noise -94dB / Crosstalk -73.4dB",
+          "battery": "Endurance rating 61h"
         },
         "brand": "Iphone"
     },
@@ -590,68 +590,68 @@
         "id": 6,
         "name": "Iphone 6s",
         "image": "/images/phones/iphone/iphone-6s.webp",
-        "Network": {
-          "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        "network": {
+          "technology": "GSM / CDMA / HSPA / EVDO / LTE"
         },
-        "Launch": {
-          "Announced": "2015, September 09. Released 2015, September 25",
-          "Status": "Discontinued"
+        "launch": {
+          "announced": "2015, September 09. Released 2015, September 25",
+          "status": "Discontinued"
         },
-        "Body": {
-          "Dimensions": "138.3 x 67.1 x 7.1 mm (5.44 x 2.64 x 0.28 in)",
-          "Weight": "143 g (5.04 oz)",
-          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+        "body": {
+          "dimensions": "138.3 x 67.1 x 7.1 mm (5.44 x 2.64 x 0.28 in)",
+          "weight": "143 g (5.04 oz)",
+          "build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
           "SIM": "Nano-SIM",
-          "ApplePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
+          "applePay": "Apple Pay (Visa, MasterCard, AMEX certified)"
         },
-        "Display": {
-          "Type": "IPS LCD, 500 nits",
-          "Size": "4.7 inches, 60.9 cm2 (~65.6% screen-to-body ratio)",
-          "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
-          "Protection": "Ion-strengthened glass, oleophobic coating",
-          "Extra": "3D Touch"
+        "display": {
+          "type": "IPS LCD, 500 nits",
+          "size": "4.7 inches, 60.9 cm2 (~65.6% screen-to-body ratio)",
+          "resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+          "protection": "Ion-strengthened glass, oleophobic coating",
+          "extra": "3D Touch"
         },
-        "Platform": {
+        "platform": {
           "OS": "iOS 9, upgradable to iOS 15.8.5",
-          "Chipset": "Apple A9 (14/16 nm - maker dependant)",
+          "chipset": "Apple A9 (14/16 nm - maker dependant)",
           "CPU": "Dual-core 1.84 GHz Twister",
           "GPU": "PowerVR GT7600 (six-core graphics)"
         },
-        "Memory": {
-          "CardSlot": "No",
-          "Internal": [
+        "memory": {
+          "cardSlot": "No",
+          "internal": [
             "16GB 2GB RAM",
             "32GB 2GB RAM",
             "64GB 2GB RAM",
             "128GB 2GB RAM"
           ]
         },
-        "MainCamera": {
-          "Modules": "12 MP, f/2.2, 29mm, 1/3.0\", 1.22µm, PDAF",
-          "Features": "Dual-LED dual-tone flash, HDR",
-          "Video": "4K@30fps, 1080p@60fps,1080p@120fps, 720p@240fps"
+        "mainCamera": {
+          "modules": "12 MP, f/2.2, 29mm, 1/3.0\", 1.22µm, PDAF",
+          "features": "Dual-LED dual-tone flash, HDR",
+          "video": "4K@30fps, 1080p@60fps,1080p@120fps, 720p@240fps"
         },
-        "SelfieCamera": {
-          "Modules": "5 MP, f/2.2, 31mm (standard)",
-          "Features": "Face detection, HDR, panorama",
-          "Video": "720p@30fps"
+        "selfieCamera": {
+          "modules": "5 MP, f/2.2, 31mm (standard)",
+          "features": "Face detection, HDR, panorama",
+          "video": "720p@30fps"
         },
-        "Sound": {
-          "Loudspeaker": "Yes",
-          "Jack3_5mm": "Yes",
-          "Audio": "16-bit/44.1kHz audio"
+        "sound": {
+          "loudspeaker": "Yes",
+          "jack3_5mm": "Yes",
+          "audio": "16-bit/44.1kHz audio"
         },
-        "Comms": {
+        "comms": {
           "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
-          "Bluetooth": "4.2, A2DP, LE",
-          "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+          "bluetooth": "4.2, A2DP, LE",
+          "positioning": "GPS, GLONASS, GALILEO, QZSS",
           "NFC": "Yes (Apple Pay only)",
-          "Infrared": "No",
-          "Radio": "No",
+          "infrared": "No",
+          "radio": "No",
           "USB": "Lightning, USB 2.0"
         },
-        "Features": {
-          "Sensors": [
+        "features": {
+          "sensors": [
             "Fingerprint (front-mounted)",
             "accelerometer",
             "gyro",
@@ -660,32 +660,32 @@
             "barometer"
           ]
         },
-        "Battery": {
-          "Type": "Li-Ion 1715 mAh, non-removable (6.91 Wh)",
-          "StandBy": "Up to 240 h (3G)",
-          "TalkTime": "Up to 14 h (3G)"
+        "battery": {
+          "type": "Li-Ion 1715 mAh, non-removable (6.91 Wh)",
+          "standBy": "Up to 240 h (3G)",
+          "talkTime": "Up to 14 h (3G)"
         },
-        "Misc": {
-          "Colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+        "misc": {
+          "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
           "SAR": {
-            "Head": "1.14 W/kg",
-            "Body": "1.14 W/kg"
+            "head": "1.14 W/kg",
+            "body": "1.14 W/kg"
           },
           "SAR_EU": {
-            "Head": "0.87 W/kg",
-            "Body": "0.98 W/kg"
+            "head": "0.87 W/kg",
+            "body": "0.98 W/kg"
           },
-          "Models": ["A1633", "A1688", "A1691", "A1700", "iPhone8,1"],
-          "Price": {
+          "models": ["A1633", "A1688", "A1691", "A1700", "iPhone8,1"],
+          "price": {
             "RS": "Rs.47,000"
           }
         },
-        "Tests": {
-          "Performance": "Basemark OS II 2.0: 2195",
-          "Display": "Contrast ratio: 1481 (nominal), 3.783 (sunlight)",
-          "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 65dB",
-          "AudioQuality": "Noise -93.8dB / Crosstalk -73.2dB",
-          "Battery": "Endurance rating 62h"
+        "tests": {
+          "performance": "Basemark OS II 2.0: 2195",
+          "display": "Contrast ratio: 1481 (nominal), 3.783 (sunlight)",
+          "loudspeaker": "Voice 66dB / Noise 64dB / Ring 65dB",
+          "audioQuality": "Noise -93.8dB / Crosstalk -73.2dB",
+          "battery": "Endurance rating 62h"
         },
         "brand": "Iphone"
     }
