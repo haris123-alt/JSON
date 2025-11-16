@@ -102,7 +102,8 @@
             "price": {
               "USD": "$144.99",
               "EUR": "€172.58",
-              "GBP": "£91.73"
+              "GBP": "£91.73",
+              "RS": "Rs.72,000"
             }
         },
           "our_tests": {
@@ -217,7 +218,9 @@
             "Body": "0.98 W/kg"
           },
           "Models": ["A1634", "A1687", "A1690", "A1699", "iPhone8,2"],
-          "Price": "About 240 EUR"
+          "Price": {
+            "RS": "Rs.22,000"
+          }
         },
         "Tests": {
           "Performance": "Basemark OS II 2.0: 2261",
@@ -343,11 +346,8 @@
             "SM-A266U1",
             "SM-A266W"
           ],
-          "price": {
-            "USD": "$177.08",
-            "EUR": "€196.99",
-            "GBP": "£194.90",
-            "INR": "₹23,999"
+          "Price": {
+            "RS": "Rs.57,000"
           }
         },
         "our_tests": {
@@ -460,11 +460,8 @@
             "SM-A065M",
             "SM-A065M/DS"
           ],
-          "price": {
-            "USD": "$102.87",
-            "EUR": "€88.02",
-            "GBP": "£66.79",
-            "INR": "₹7,599"
+          "Price": {
+            "RS": "Rs.62,000"
           }
         },
         "our_tests": {
@@ -576,7 +573,9 @@
             "Body": "0.97 W/kg"
           },
           "Models": ["A1549", "A1586", "A1589", "A1522", "A1524", "A1593", "iPhone7,2"],
-          "Price": "About 100 EUR"
+          "Price": {
+            "RS": "Rs.93,000"
+          }
         },
         "Tests": {
           "Performance": "Basemark X: 15841",
@@ -677,7 +676,9 @@
             "Body": "0.98 W/kg"
           },
           "Models": ["A1633", "A1688", "A1691", "A1700", "iPhone8,1"],
-          "Price": "About 230 EUR"
+          "Price": {
+            "RS": "Rs.47,000"
+          }
         },
         "Tests": {
           "Performance": "Basemark OS II 2.0: 2195",
