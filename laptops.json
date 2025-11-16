@@ -58,7 +58,7 @@
       
         "price": {
           "international": "$190 – $230",
-          "pakistan_estimated": "PKR 55,000 – 70,000 (varies by condition/variant)"
+          "pakistan_estimated": "55,000"
         }
     },
     {
@@ -119,7 +119,7 @@
       
         "price": {
           "international": "$999 (launch price)",
-          "pakistan_estimated": "PKR 180,000 – 220,000 (condition/variant)"
+          "pakistan_estimated": "180,000"
         }
     },
     {
@@ -181,7 +181,7 @@
       
         "price": {
           "international_estimated": "Varies by region & configuration",
-          "pakistan_estimated": "Varies widely (check local dealers)"
+          "pakistan_estimated": "72,000"
         }
     },
     {
@@ -244,7 +244,7 @@
       
         "price": {
           "international_estimated": "Varies by region and configuration",
-          "pakistan_estimated": "PKR ~109,000 (for 4 GB/256 GB variant) based on recent listings"
+          "pakistan_estimated": "109,000"
         }
     },
     {
@@ -308,7 +308,7 @@
       
         "price": {
           "international_estimated": "Varies by region and configuration",
-          "pakistan_estimated": "Used/refurbished examples – PKR approx. (check market)"
+          "pakistan_estimated": "50,000"
         }
     }
 ]
