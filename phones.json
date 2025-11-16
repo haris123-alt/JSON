@@ -129,6 +129,7 @@
         "id": 2,
         "name": "Iphone 6s Plus",
         "image": "/images/phones/iphone/iphone-6s.webp",
+        "brand": "Iphone",
         "Network": {
           "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
         },
