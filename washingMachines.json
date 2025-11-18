@@ -8,6 +8,7 @@
       "brand": "Super Asia",
       "model": "SA-812i",
       "type": "Fully Automatic Top Load Washing Machine",
+      "price": "72000",
       "specifications": {
         "color": "Silver Gray",
         "capacity": "12 kg",
@@ -49,6 +50,7 @@
       "brand": "Boss",
       "model": "K.E-3000-N-15-BS",
       "type": "Semi-Automatic Single Tub Washing Machine",
+      "price": "65000",
       "specifications": {
         "color": "White & Blue",
         "capacity": "12 kg",
@@ -82,6 +84,7 @@
       "brand": "Haier",
       "model": "HWM-80-AS",
       "type": "Twin Tub Washing Machine",
+      "price": "102000",
       "specifications": {
         "color": "White & Grey",
         "capacity": "8 kg",
@@ -112,6 +115,7 @@
       "brand": "Haier",
       "model": "HWM-100-AS",
       "type": "Twin Tub Washing Machine",
+      "price": "37000",
       "specifications": {
         "color": "White & Grey",
         "capacity": "10 kg",
@@ -133,5 +137,5 @@
         "motor_material": "99.99% Copper"
       }
     }
-  ]
+]
   
